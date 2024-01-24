@@ -1,0 +1,10 @@
+[t*], applyTrade, trade, amount, f: 0
+[t], applyTrade, feeRate, f: 10
+[t], notionalValue, price, f:40
+[t*], notionalValue, position, base, f:0
+[t*], margin, position, base, f:0
+[t*], minimumMargin, position, base, f:0
+[t], fillAmount, fillA, f:0
+[t*], fillAmount, fillB, f:0
+[t], getFee, amount, f:0
+[t], getFee, executionPrice, f:40
